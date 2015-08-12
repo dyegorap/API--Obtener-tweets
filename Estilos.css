@@ -1,0 +1,58 @@
+.cuerpo{
+  background-image: url(twitter.png);
+  background-size: 1350px 750px;
+   
+}
+
+.boton{
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    padding: 6px;
+    margin: 0 10px 20px 0;
+    border: 3px solid #ccc;
+    background: #4099FF;
+    border-radius: 8px 8px 8px 8px;
+    margin-top:10px;
+
+}
+
+.botton{
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    padding: 6px;
+    margin: 0 10px 20px 0;
+    border: 3px solid #ccc;
+    background: #4099FF;
+    border-radius: 8px 8px 8px 8px; 
+    margin-left:290px;
+    margin-top:10px; 
+}
+
+.campo{
+ border-radius:10px;
+ height:22px;
+ float:right;
+ font-size:16px;
+}
+
+.table{
+  border-radius:6px;
+  font-size:20px;
+  font_family:"Times New Roman", Times, serif;
+  Color:white;
+  width:200px;
+  height:600px;
+  border:1px;
+}
+.tablee{
+  border-radius:6px;
+  font-size:22px;
+  font_family:"Times New Roman", Times, serif;
+  Color:white;
+  width:500px;
+  height:150px;
+  text-align:right;
+  margin-top:70px;
+}
